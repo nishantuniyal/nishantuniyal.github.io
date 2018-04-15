@@ -47,7 +47,7 @@ email = "nishantuniyal@gmail.com"
 ## Extras
 [params.extra]
 copyright = "© 2016. Nishant Uniyal. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
-poweredby = true
+poweredby = false
 highlightjs = true
 
 ## Main Menu
@@ -61,8 +61,3 @@ highlightjs = true
     identifier = "about"
     weight = 200
     url = "/about/"
-# [[menu.main]]
-#     name = "coderag"
-#     identifier = "coderag"
-#     weight = 300
-#     url = "/coderag/"
