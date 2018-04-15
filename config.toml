@@ -40,7 +40,7 @@ github = "nishantuniyal"
 linkedin = "nishantuniyal"
 twitter = "nishant_nu"
 # facebook = "<username>"
-google = "nishantuniyal"
+# google = "nishantuniyal"
 # stackoverflow = "<username>"
 email = "nishantuniyal@gmail.com"
 
@@ -53,10 +53,12 @@ highlightjs = true
 ## Main Menu
 [[menu.main]]
     name = "blog"
+    identifier = "blog"
     weight = 100
     url = "/blog/"
 [[menu.main]]
     name = "about"
+    identifier = "about"
     weight = 200
     url = "/about/"
 # [[menu.main]]
