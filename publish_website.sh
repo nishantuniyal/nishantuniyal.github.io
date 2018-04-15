@@ -23,3 +23,6 @@ hugo
 
 echo "Updating master branch"
 cd public && git add --all && git commit -m "Publishing website (publish_website.sh)" && git push
+
+echo "Updating source repo"
+git push --all source

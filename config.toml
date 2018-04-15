@@ -41,7 +41,7 @@ linkedin = "nishantuniyal"
 twitter = "nishant_nu"
 # facebook = "<username>"
 google = "nishantuniyal"
-stackoverflow = "<username>"
+# stackoverflow = "<username>"
 email = "nishantuniyal@gmail.com"
 
 ## Extras
@@ -55,12 +55,12 @@ highlightjs = true
     name = "blog"
     weight = 100
     identifier = "blog"
-    url = "/blog/"
+    url = "https://nishantuniyal.github.io"
 [[menu.main]]
     name = "about"
     identifier = "about"
     weight = 200
-    url = "/about/"
+    url = "https://nishantuniyal.github.io"
 # [[menu.main]]
 #     name = "coderag"
 #     identifier = "coderag"
