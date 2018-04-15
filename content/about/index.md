@@ -11,6 +11,6 @@ showpagemeta: false
 showcomments: false
 ---
 
-Nishant is a Data Scientist at Boeing Vancouver (BV). Before joining BV he worked at Clarius Mobile Health as a Research Scientist.
+Nishant is a Data Scientist at Boeing Vancouver. Before joining Boeing he worked at Clarius Mobile Health as a Research Scientist.
 
 He loves all things Python, Data Science, Machine Learning, and Image Processing.
