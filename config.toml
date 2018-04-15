@@ -50,15 +50,18 @@ copyright = "© 2016. Nishant Uniyal. [Some Rights Reserved](http://creativecomm
 poweredby = true
 highlightjs = true
 
+[permalinks]
+  page = "/:slug/"
+
 ## Main Menu
 [[menu.main]]
     name = "blog"
     weight = 100
-    identifier = "blog"
+    identifier = "nishantuniyal"
     url = "https://nishantuniyal.github.io"
 [[menu.main]]
     name = "about"
-    identifier = "about"
+    identifier = "nishantuniyal"
     weight = 200
     url = "https://nishantuniyal.github.io"
 # [[menu.main]]
