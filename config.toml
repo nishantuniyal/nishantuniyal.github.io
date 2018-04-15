@@ -1,3 +1,67 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+## Basic Configuration
+
+baseurl = "https://nishantuniyal.github.io"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Nishant Uniyal"
+title = "Nishant Uniyal"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Nishant Uniyal"
+intro = "Data Scientist"
+description = "Now @Boeing Vancouver. Previously @Clarius Mobile Health"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Nishant Uniyal"
+keywords = "nishant,nishantuniyal,blog,website,datascience"
+
+## Social Accounts
+[params.social]
+github = "nishantuniyal"
+instagram = "<username>"
+xing = "<username>"
+linkedin = "nishantuniyal"
+twitter = "<username>"
+facebook = "<username>"
+google = "<username>"
+stackoverflow = "<username>"
+email = "nishantuniyal@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2016. Nishant Uniyal. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "coderag"
+    identifier = "coderag"
+    weight = 300
+    url = "/coderag/"
