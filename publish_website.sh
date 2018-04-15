@@ -19,7 +19,7 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
-../bin/hugo
+hugo
 
 echo "Updating master branch"
 cd public && git add --all && git commit -m "Publishing website (publish_website.sh)" && git push
