@@ -8,6 +8,7 @@ tags: ["about"]
 categories: ["about"]
 
 showpagemeta: false
+showcomments: false
 ---
 
 Nishant is a Data Scientist at Boeing Vancouver (BV). Before joining BV he worked at Clarius Mobile Health as a Research Scientist.
