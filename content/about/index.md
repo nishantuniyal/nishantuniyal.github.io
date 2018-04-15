@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-04-14T19:44:01-07:00
-draft: true
+draft: false
 comments: false
 slug: ""
 tags: ["about"]
