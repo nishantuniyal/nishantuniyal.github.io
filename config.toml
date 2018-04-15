@@ -15,8 +15,8 @@ title = "Nishant Uniyal"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "XYZ"
+disqusShortname = "personal-website-1" # Comment out to disable Disqus.
+googleAnalytics = "UA-44582128-1"
 enableRobotsTXT = true
 
 ## Site Settings
@@ -24,6 +24,7 @@ enableRobotsTXT = true
 author = "Nishant Uniyal"
 intro = "Data Scientist"
 description = "Now @Boeing Vancouver. Previously @Clarius Mobile Health"
+authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
@@ -34,12 +35,12 @@ keywords = "nishant,nishantuniyal,blog,website,datascience"
 ## Social Accounts
 [params.social]
 github = "nishantuniyal"
-instagram = "<username>"
-xing = "<username>"
+# instagram = "<username>"
+# xing = "<username>"
 linkedin = "nishantuniyal"
-twitter = "<username>"
-facebook = "<username>"
-google = "<username>"
+twitter = "nishant_nu"
+# facebook = "<username>"
+google = "nishantuniyal"
 stackoverflow = "<username>"
 email = "nishantuniyal@gmail.com"
 
@@ -60,8 +61,8 @@ highlightjs = true
     identifier = "about"
     weight = 200
     url = "/about/"
-[[menu.main]]
-    name = "coderag"
-    identifier = "coderag"
-    weight = 300
-    url = "/coderag/"
+# [[menu.main]]
+#     name = "coderag"
+#     identifier = "coderag"
+#     weight = 300
+#     url = "/coderag/"
