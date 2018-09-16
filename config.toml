@@ -30,7 +30,7 @@ dateformat = "Jan 2, 2006"
 ## Site Meta Settings
 [params.meta]
 description = "Nishant Uniyal"
-keywords = "nishant,nishantuniyal,blog,website,datascience"
+keywords = "nishant,uniyal,nishantuniyal,blog,website,datascience"
 
 ## Social Accounts
 [params.social]
@@ -61,3 +61,8 @@ highlightjs = true
     identifier = "about"
     weight = 200
     url = "/about/"
+[[menu.main]]
+    name = "resume"
+    identifier = "resume"
+    weight = 300
+    url = "/resume/Resume_Nishant_Uniyal_2018.pdf"
