@@ -66,3 +66,8 @@ highlightjs = true
     identifier = "resume"
     weight = 300
     url = "/resume/Resume_Nishant_Uniyal_2018.pdf"
+[[menu.main]]
+    name = "pictures"
+    identifier = "pictures"
+    weight = 400
+    url = "https://nishant.life"
