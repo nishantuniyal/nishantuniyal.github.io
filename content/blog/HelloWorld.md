@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2018-04-14T19:41:02-07:00
-draft: true
+draft: false
 comments: true
 slug: ""
 tags: ["helloworld"]

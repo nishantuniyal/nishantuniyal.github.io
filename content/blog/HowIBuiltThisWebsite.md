@@ -31,7 +31,6 @@ I thought it was a good idea to enable commenting on blog posts to enable the us
 
 One of the reasons in choosing Jekyll for building this personal website was how trivial it was to deploy the website on Github pages.
 
-
 ## Tutorial
+
 [Tutorial I followed](https://fillmem.com/post/fast-secured-and-free-static-site/)
-****
