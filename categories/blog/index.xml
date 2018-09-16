@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nishant Uniyal</title>
-    <link>https://nishantuniyal.com/</link>
-    <description>Recent content on Nishant Uniyal</description>
+    <title>Blog on Nishant Uniyal</title>
+    <link>https://nishantuniyal.com/categories/blog/</link>
+    <description>Recent content in Blog on Nishant Uniyal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 14 Apr 2018 19:44:01 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Apr 2018 19:41:02 -0700</lastBuildDate>
     
-	<atom:link href="https://nishantuniyal.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nishantuniyal.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://nishantuniyal.com/about/</link>
-      <pubDate>Sat, 14 Apr 2018 19:44:01 -0700</pubDate>
-      
-      <guid>https://nishantuniyal.com/about/</guid>
-      <description>Nishant is a Data Scientist at Boeing Vancouver. Before joining Boeing he worked at Clarius Mobile Health as a Research Scientist.
-He loves all things Python, Data Science, Machine Learning, and Image Processing.</description>
-    </item>
     
     <item>
       <title>Hello World</title>
