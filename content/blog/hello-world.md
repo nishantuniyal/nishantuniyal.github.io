@@ -4,7 +4,7 @@ date: 2018-04-14T19:41:02-07:00
 draft: false
 comments: true
 slug: ""
-tags: ["helloworld"]
+tags: ["hello-world"]
 categories: ["blog"]
 
 showpagemeta: true

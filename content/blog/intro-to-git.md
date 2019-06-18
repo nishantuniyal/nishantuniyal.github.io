@@ -4,8 +4,8 @@ date: 2018-04-15T11:01:03-07:00
 draft: true
 comments: true
 slug: ""
-tags: []
-categories: []
+tags: ["git", "software-development"]
+categories: ["software-development"]
 
 showpagemeta: true
 showcomments: true
