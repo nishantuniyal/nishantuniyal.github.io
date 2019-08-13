@@ -23,6 +23,14 @@ Let's face it, the python development environment setup is not an easy task. The
 * pipx
 * pipenv
 
+Let's go into the whys', which might help us understand the rationale behind choosing these tools.
+
+pyenv: I use Homebrew on my mac and have installed python through it. As I find myself working on different projects with different python version requirements along with the need to have the latest version of Python3 as my system python version, I felt that Homebrew no longer fit the bill for it. So, I did some research and found pyenv. After evaluating things like, active development and maintenance, and widespread adoption, I chose pyenv.
+
+pipx: I used to use Pipsi to install python cli tools. As pipsi is no longer actively maintained, I decided to look for an alternative. Through the Python Bytes podcast, I found pipx.
+
+pipenv: I like most things by Kenneth Reitz, and when he first released Pipenv, I was one of the early adopters. I loved the auto-generated, auto-updated, TOML configuration file and in my eyes, most things by Kenneth are just awesome.
+
 ## Related Articles and Inspiration
 
 [Simplify Your Python Developer Environment](https://medium.com/expedia-group-tech/simplify-your-python-developer-environment-aba90f32dddb)
