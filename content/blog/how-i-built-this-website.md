@@ -8,13 +8,13 @@ tags: ["web-development", "hugo", "websites"]
 categories: ["web-development"]
 
 showpagemeta: true
-showcomments: true****
+showcomments: true
 ---
 # How Did I Build This Website
 
 ## Why Hugo
 
-An older version of the website used Jekyll as a static site generator. I decided to ditch Jekyll in favor of Hugo, a statis site generator written in Golang, which has been gaining popularity and is blazing fast and simple.
+An older version of the website used Jekyll as a static site generator. I decided to ditch Jekyll in favor of Hugo. Hugo is a static site generator written in Golang, which has been gaining popularity and is blazing fast and simple.
 
 Why I did not use Pelican, a static site generator in Python, despite being a Pythonista?
 

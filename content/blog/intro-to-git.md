@@ -10,6 +10,7 @@ categories: ["software-development"]
 showpagemeta: true
 showcomments: true
 ---
+
 # Git - Version Control
 
 Version Control is arguably the most important software developer skill that everyone should master.
