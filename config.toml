@@ -35,13 +35,8 @@ keywords = "nishant,uniyal,nishantuniyal,blog,website,datascience"
 ## Social Accounts
 [params.social]
 github = "nishantuniyal"
-# instagram = "<username>"
-# xing = "<username>"
 linkedin = "nishantuniyal"
 twitter = "nishant_nu"
-# facebook = "<username>"
-# google = "nishantuniyal"
-# stackoverflow = "<username>"
 email = "nishantuniyal@gmail.com"
 
 ## Extras
