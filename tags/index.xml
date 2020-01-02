@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nishant Uniyal</title>
@@ -21,11 +21,11 @@
     </item>
     
     <item>
-      <title>helloworld</title>
-      <link>https://nishantuniyal.com/tags/helloworld/</link>
+      <title>hello-world</title>
+      <link>https://nishantuniyal.com/tags/hello-world/</link>
       <pubDate>Sat, 14 Apr 2018 19:41:02 -0700</pubDate>
       
-      <guid>https://nishantuniyal.com/tags/helloworld/</guid>
+      <guid>https://nishantuniyal.com/tags/hello-world/</guid>
       <description></description>
     </item>
     

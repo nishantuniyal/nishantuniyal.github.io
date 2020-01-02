@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Nishant Uniyal</title>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>https://nishantuniyal.com/blog/helloworld/</link>
+      <link>https://nishantuniyal.com/blog/hello-world/</link>
       <pubDate>Sat, 14 Apr 2018 19:41:02 -0700</pubDate>
       
-      <guid>https://nishantuniyal.com/blog/helloworld/</guid>
+      <guid>https://nishantuniyal.com/blog/hello-world/</guid>
       <description>This marks the beginning of my blog. After months of procrastination I have finally managed to migrate my website from Jekyll to Hugo.
 Through this blog I will be sharing my knowledge about things that I have learned with the intention of contributing back to the python, datascience, and machine learning community.</description>
     </item>
