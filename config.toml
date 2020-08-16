@@ -16,7 +16,7 @@ theme = "hugo-goa"
 
 ## Hugo Built-in Features
 disqusShortname = "personal-website-1" # Comment out to disable Disqus.
-googleAnalytics = "UA-44582128-1"
+googleAnalytics = "UA-44582128-2"
 enableRobotsTXT = true
 
 ## Site Settings
