@@ -8,20 +8,16 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 
-<script type="text/javascript">
-  var _paq = window._paq = window._paq || [];
-   
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function () {
-    var u = "https://nishantuniyal.matomo.cloud/";
-    _paq.push(['setTrackerUrl', u + 'matomo.php']);
-    _paq.push(['setSiteId', '1']);
-    var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
-    g.type = 'text/javascript'; g.async = true; g.src = '//cdn.matomo.cloud/nishantuniyal.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g, s);
-  })();
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-44582128-2', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
-
+<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
 <meta name="description" content="Nishant Uniyal">
@@ -118,8 +114,6 @@
 <script type="text/javascript">
 hljs.initHighlightingOnLoad();
 </script>
-
-
 
 
 
