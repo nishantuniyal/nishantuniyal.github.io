@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Nishant Uniyal"
-intro = "Data Overlord"
+intro = "Data Scientist"
 description = "Now @Boeing Vancouver. Previously @Clarius Mobile Health"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
