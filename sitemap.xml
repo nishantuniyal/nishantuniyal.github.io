@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nishantuniyal.com/blog/</loc>
+    <loc>https://nishantuniyal.com/</loc>
     <lastmod>2019-08-05T11:46:04-07:00</lastmod>
   </url><url>
-    <loc>https://nishantuniyal.com/</loc>
+    <loc>https://nishantuniyal.com/posts/</loc>
     <lastmod>2019-08-05T11:46:04-07:00</lastmod>
   </url><url>
     <loc>https://nishantuniyal.com/about/</loc>
@@ -23,13 +23,13 @@
     <loc>https://nishantuniyal.com/tags/</loc>
     <lastmod>2018-04-14T19:44:01-07:00</lastmod>
   </url><url>
-    <loc>https://nishantuniyal.com/categories/blog/</loc>
-    <lastmod>2018-04-14T19:41:02-07:00</lastmod>
-  </url><url>
-    <loc>https://nishantuniyal.com/blog/hello-world/</loc>
+    <loc>https://nishantuniyal.com/posts/hello-world/</loc>
     <lastmod>2018-04-14T19:41:02-07:00</lastmod>
   </url><url>
     <loc>https://nishantuniyal.com/tags/hello-world/</loc>
+    <lastmod>2018-04-14T19:41:02-07:00</lastmod>
+  </url><url>
+    <loc>https://nishantuniyal.com/categories/posts/</loc>
     <lastmod>2018-04-14T19:41:02-07:00</lastmod>
   </url>
 </urlset>
