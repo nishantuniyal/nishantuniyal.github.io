@@ -30,14 +30,14 @@ dateformat = "Jan 2, 2006"
 ## Site Meta Settings
 [params.meta]
 description = "Nishant Uniyal"
-keywords = "nishant,uniyal,nishantuniyal,blog,website,datascience"
+keywords = "nishant,uniyal,nishantuniyal,blog,website,datascience,machinelearning,python,ai"
 
 ## Social Accounts
 [params.social]
 github = "nishantuniyal"
 linkedin = "nishantuniyal"
 twitter = "nishant_nu"
-email = "nishantuniyal@gmail.com"
+email = "contact@nishantuniyal.com"
 
 ## Extras
 [params.extra]
