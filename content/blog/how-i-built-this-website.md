@@ -18,7 +18,7 @@ An older version of the website used Jekyll as a static site generator. I decide
 
 Why I did not use Pelican, a static site generator in Python, despite being a Pythonista?
 
-* I wanted to challenge myself with something I was unfamiliar with subsequently learning a new skill.
+* I wanted to challenge myself with something I was unfamiliar with subsequently learning something new.
 * The Github stars for Hugo speaks for its popularity.
 
 ## Getting Started
