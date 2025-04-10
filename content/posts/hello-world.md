@@ -5,7 +5,7 @@ draft: false
 comments: true
 slug: ""
 tags: ["hello-world"]
-categories: ["blog"]
+categories: ["posts"]
 
 showpagemeta: true
 showcomments: true

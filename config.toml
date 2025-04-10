@@ -47,10 +47,10 @@ highlightjs = true
 
 ## Main Menu
 [[menu.main]]
-    name = "blog"
-    identifier = "blog"
+    name = "posts"
+    identifier = "posts"
     weight = 100
-    url = "/blog/"
+    url = "/posts/"
 [[menu.main]]
     name = "about"
     identifier = "about"
